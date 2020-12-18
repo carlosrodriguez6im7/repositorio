@@ -1,0 +1,2 @@
+Niveles y tipos de permisos para archivos
+EXplicación de los permisos para carpetas
